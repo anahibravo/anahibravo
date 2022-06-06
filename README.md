@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/anahibravocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anahibravocodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/anahibravocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anahibravocodes/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/anahibravocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anahibravocodes/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://anahicodes.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://anahicodes.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
