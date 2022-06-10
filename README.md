@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anahicodes.me/](https://anahicodes.me/)
 
-- 📝 I regularly write articles on [https://anahicodes.hashnode.dev/](https://anahicodes.hashnode.dev/)
+- 📝 I regularly write about my tech journey on [https://anahicodes.hashnode.dev/](https://anahicodes.hashnode.dev/)
 
 - 📫 How to reach me **anahi.bravo@protonmail.com**
 
