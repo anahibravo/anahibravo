@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anahi Bravo</h1>
 <h3 align="center">A Full Stack Software Engineer from Las Vegas.</h3>
 
-- 🌱 I’m currently learning **Javascript, Node.js, Bootstrap, MongodDB**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://anahicodes.me/](https://anahicodes.me/)
 
