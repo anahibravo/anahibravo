@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://anahicodes.me/](https://anahicodes.me/)
+- 👨‍💻 All of my projects are available at [https://anahicodes.me/](https://anahicodes.netlify.app/)
 
 - 📝 I regularly write about my tech journey on [https://anahicodes.hashnode.dev/](https://anahicodes.hashnode.dev/)
 
